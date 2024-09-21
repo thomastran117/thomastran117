@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi I'm Thomas 👋
 
+I'm a third year Computer Science student at the University of Ottawa.
+
+I'm currently learning Express.js and Django.
+A list of skills and projects are found on my resume and GitHub.
 <!--
 **Atomic117/Atomic117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
