@@ -1,7 +1,8 @@
 # 💫 About Me:
-Hi, my name is Thomas. I'm a third year Computer Science student at uOttawa.<br><br>🔭 I’m currently working on my SEG school project and personal E-commerce website<br>🌱 I’m currently learning Express.js and Django. 
-Inc: Junion Software Developer @ Adga Group.
-Prev: AI/ML Intern @ Ideabytes. 
+Hi, my name is Thomas. I'm a third year Computer Science student at uOttawa.<br><br>🔭 I’m currently working on my SEG school project and personal E-commerce website<br>🌱 
+<br>I’m currently learning Express.js and Django. <br>
+<br>Inc: Junion Software Developer @ Adga Group.<br>
+<br>Prev: AI/ML Intern @ Ideabytes. <br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🌐 Socials:
