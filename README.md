@@ -104,10 +104,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
 <h3 align="left">My Socials:</h3>
 
 ###
@@ -121,5 +117,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+<h4> Link to personal website coming soon</h4>
 
 ###
