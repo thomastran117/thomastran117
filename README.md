@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hi, my name is Thomas. I'm a third year Computer Science student at uOttawa.<br><br>🔭 I’m currently working on a personal E-commerce website<br>
-<br>🌱 I’m currently learning Django and AWS. <br>
-<br>Inc: Junior Software Developer @ Adga Group.<br>
+Hi, my name is Thomas. I'm a third year Computer Science student at uOttawa.<br><br>🔭 I’m currently working on a personal website<br>
+<br>🌱 I’m currently learning Vue, Spring Boot and AWS. <br>
+<br> Junior Software Developer @ Adga Group.<br>
 <br>Prev: AI/ML Intern @ Ideabytes. <br>
 
 <br>Feel free to say Hi. <br>
