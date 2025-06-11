@@ -15,7 +15,7 @@
 
 ###
 
-<h4 align="left">I'm Thomas from uOttawa<br><br>- 🔭 I’m working as Software Developer @ Adga<br>- 📚 I'm currently learning Nuxt and FastAPI <br>- ⚡ In my free time I like to play games</h4>
+<h4 align="left">I'm Thomas from uOttawa<br><br>- 🔭 I’ll be working at ISED as a AI Developer for Fall 2025 <br>- 📚 I'm currently learning Nuxt and FastAPI <br>- ⚡ In my free time I like to play games</h4>
 
 ###
 
