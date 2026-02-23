@@ -122,13 +122,12 @@ I'm a Computer Science student at the **University of Ottawa**, passionate about
 
 ## 🚀 Current Projects
 
-<!-- Replace with your actual projects! -->
-
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🔧 **Project Name** | Brief description of what it does and why it's interesting | `Python` `Docker` |
-| 🌐 **Project Name** | Brief description of what it does and why it's interesting | `React` `Node.js` |
-| 📡 **Distributed KV Store** | Learning project implementing a fault-tolerant key-value store | `Go` `Raft` |
+| 🎟️ **EventXperience** | Event management SaaS application| `Angular` `TypeScript` `C#` `ASP.NET`|
+| 🎓 **SchoolSpace** | Online learning platform| `React` `TypeScript` `Node.js` |
+| 🛒 **ShopWave** | E-commerce application with real time tracking of packages | `React` `TypeScript` `Java` `Spring Boot` |
+| 🛒 **EasyFood** | Online food ordering platform | `Angular` `TypeScript` `Python` |
 
 ---
 
