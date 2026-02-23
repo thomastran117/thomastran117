@@ -1,25 +1,31 @@
+###
+
 <div align="center">
-  <img height="300" src="https://i0.wp.com/news.qoo-app.com/en/wp-content/uploads/sites/3/2022/09/Wurthering-Waves-Reveals-Eight-Minute-Gameplay-Video-and-Demo-at-TGS-2022_009.jpeg"  />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Thomas+%F0%9F%91%8B;Computer+Science+%40+uOttawa;Distributed+Systems+Enthusiast;Always+Building+Something+New)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=thomas&label=Profile%20Views&color=4F8EF7&style=flat-square" alt="Profile views" />
+
 </div>
 
+---
+
+## 👨‍💻 About Me
+
+I'm a Computer Science student at the **University of Ottawa**, passionate about building scalable and reliable systems. I'm currently diving deep into the world of **distributed systems** — from consensus algorithms to fault-tolerant architectures.
+
+- 📚 Currently learning: **Distributed Systems** (Raft, Paxos, CAP Theorem)
+- 🚀 Always looking for interesting problems to solve
+- 🎮 Outside of code, you'll find me gaming
+- 📍 Based in Ottawa, Canada
+
+---
+
+## 🛠 Tech Stack
+
 ###
 
-
-###
-
-<h1 align="center">Hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<h4 align="left">I'm Thomas from uOttawa<br>- 📚 I'm currently learning distributed systems <br>- ⚡ In my free time I like to play games</h4>
-
-###
-
-<h3 align="left">🛠 Languages</h3>
+**Languages**
 
 ###
 
@@ -28,15 +34,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
@@ -47,13 +55,11 @@
 
 
 ###
-###
 </div>
 
 ###
 
-<h3 align="left">🛠 Frameworks/Libraries</h3>
-
+**Frameworks & Libraries**
 ###
 
 <div align="left">
@@ -63,7 +69,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -77,10 +83,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
@@ -88,7 +90,7 @@
 
 ###
 
-<h3 align="left">🛠 Tools</h3>
+**Tools**
 
 ###
 
@@ -105,31 +107,67 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 </div>
 
-###
+---
 
-<h3 align="left">My Socials:</h3>
+## 🚀 Current Projects
 
-###
+<!-- Replace with your actual projects! -->
 
-<div align="left">
-  <a href="https://linkedin.com/in/thomas-tran-117l/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="https://www.instagram.com/thomas_tran.02/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🔧 **Project Name** | Brief description of what it does and why it's interesting | `Python` `Docker` |
+| 🌐 **Project Name** | Brief description of what it does and why it's interesting | `React` `Node.js` |
+| 📡 **Distributed KV Store** | Learning project implementing a fault-tolerant key-value store | `Go` `Raft` |
 
-###
+---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomastran117)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 
+<div align="center">
 
-###
+![GitHub Streak](https://streak-stats.demolab.com?user=thomas&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## ⚡ Fun Facts
+
+- 🎮 I play games to unwind — currently into **Elden Ring**
+- 🧩 I love a good algorithm puzzle — LeetCode is my cardio
+- ☕ Fueled by coffee and curiosity
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-tran-117l)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thomastran117)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas.tran.1591@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F8EF7&height=80&section=footer" />
+</div>
