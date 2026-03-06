@@ -121,9 +121,7 @@ I'm a Computer Science student at the **University of Ottawa**, passionate about
 | Project | Description | Stack |
 |--------|-------------|-------|
 | 🎟️ **EventXperience** | Event management SaaS application| `Angular` `TypeScript` `C#` `ASP.NET`|
-| 🎓 **SchoolSpace** | Online learning platform| `React` `TypeScript` `C#` `ASP.NET` |
 | 🛒 **ShopWave** | E-commerce application with real time tracking of packages | `React` `TypeScript` `Java` `Spring Boot` |
-| 🛒 **EasyFood** | Online food ordering platform | `Angular` `TypeScript` `Java` `Spring Boot` |
 
 ---
 
